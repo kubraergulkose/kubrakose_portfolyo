@@ -27,4 +27,8 @@ Anasayfa direkt hakkımda componentini göstermekte.
 
 ![image](https://user-images.githubusercontent.com/98026058/162086827-807472bd-2ad5-473e-9ac4-c089207f9b45.png)
 
+# Responsive Tasarım 
+
+![image](https://user-images.githubusercontent.com/98026058/162086987-4ea65081-efcb-4640-a86a-5f514e3faa94.png)
+![image](https://user-images.githubusercontent.com/98026058/162087035-7e08acc6-0dac-4698-b853-4106fde15da0.png)
 
